@@ -1,0 +1,16 @@
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\bin\Debug\net5.0\LotteryGame.exe
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\bin\Debug\net5.0\LotteryGame.deps.json
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\bin\Debug\net5.0\LotteryGame.runtimeconfig.json
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\bin\Debug\net5.0\LotteryGame.runtimeconfig.dev.json
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\bin\Debug\net5.0\LotteryGame.dll
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\bin\Debug\net5.0\ref\LotteryGame.dll
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\bin\Debug\net5.0\LotteryGame.pdb
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\LotteryGame.csprojAssemblyReference.cache
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\LotteryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\LotteryGame.AssemblyInfoInputs.cache
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\LotteryGame.AssemblyInfo.cs
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\LotteryGame.csproj.CoreCompileInputs.cache
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\LotteryGame.dll
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\ref\LotteryGame.dll
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\LotteryGame.pdb
+C:\Users\emasu\Desktop\Cursul de Joi\LotteryGame\LotteryGame\obj\Debug\net5.0\LotteryGame.genruntimeconfig.cache
